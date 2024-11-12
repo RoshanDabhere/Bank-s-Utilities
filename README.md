@@ -18,8 +18,10 @@ Key Features:
       •	Quit:  Log out and exit the application.
 
 4. Project Goals:
-•	User-Friendly Interface:  Provide a straightforward interface for easy access to banking functions.
-•	Security:  Ensure secure login and account operations to protect user data.
-•	Basic Banking Simulation:  Offer essential banking functionalities in a simple and accessible way.
+      •	User-Friendly Interface:  Provide a straightforward interface for easy access to banking functions.
+   
+      •	Security:  Ensure secure login and account operations to protect user data.
+
+      •	Basic Banking Simulation:  Offer essential banking functionalities in a simple and accessible way.
 
 This project is ideal for beginners in software development, as it covers essential concepts such as user authentication, data handling, and basic financial operations. Additionally, it provides a foundation for more advanced financial applications, such as those involving database management or more complex security features.
