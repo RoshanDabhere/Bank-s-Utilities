@@ -8,9 +8,13 @@ Key Features:
 3. Account Operations: - Once logged in, users have access to several account management options:
    
  •	View Balance:  Check the current balance in the account.
+ 
  •	Withdraw:  Withdraw a specified amount from the account balance, provided sufficient funds are available.
+ 
  •	Deposit:  Deposit a specified amount into the account to increase the balance.
+ 
  •	Change PIN:  Update the account’s PIN for added security.
+ 
  •	Quit:  Log out and exit the application.
 
 4. Project Goals:
