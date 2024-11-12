@@ -7,9 +7,9 @@ Key Features:
 2. User Login: - After registration, users can log in with their username and password. The system verifies credentials to ensure secure access to account features.
 3. Account Operations: - Once logged in, users have access to several account management options:
    
-      •	View Balance:  Check the current balance in the account.
+       •	View Balance:  Check the current balance in the account.
  
- •	Withdraw:  Withdraw a specified amount from the account balance, provided sufficient funds are available.
+       •	Withdraw:  Withdraw a specified amount from the account balance, provided sufficient funds are available.
  
  •	Deposit:  Deposit a specified amount into the account to increase the balance.
  
